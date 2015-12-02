@@ -139,7 +139,7 @@ Fail2ban reads its configuration files so that all `.conf` files are read first 
 
 ### jail.local Basic Configuration
 
-1.  Return to `/etc/fail2ban` directory and copy the `fail.conf` file to `jail.local`:
+1.  Return to `/etc/fail2ban` directory and copy the `jail.conf` file to `jail.local`:
 
     cp jail.conf jail.local
     
